@@ -1,0 +1,7 @@
+-Banco Postgres
+-Thymeleaf
+-Bootstrap
+-WebJArs: permite gerenciar os recursos (CSS e JS) necessarios do BootStrap. Com ele nao precisa baixar o bootstrap direto para o projeto.
+-Jquery
+-Atributos th:href >> tirar provito da expressao @ { }  >> coloca o contexto da aplicação nos links do projeto.
+
